@@ -5,7 +5,7 @@
  - [Esiel Kevin Arizmendi Ramírez](https://github.com/EsielKar)
  - [Héctor Gerardo Bravo Pacheco](https://github.com/HectorGbravo)
  - [Claudia Peralta Álvarez](https://github.com/clau0812)
- - [José Roberto Sandoval Lara] (https://github.com/JoseRSL08)
+ - [José Roberto Sandoval Lara](https://github.com/JoseRSL08)
  - [Jorge Abraham Hilario Jimenez Lizarraga](https://github.com/carnavalito)
  
 ### Requisitos ⚙️
