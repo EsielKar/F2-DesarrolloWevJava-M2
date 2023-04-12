@@ -22,7 +22,7 @@ Implementar todos los postwork del Equipo 4 de la Fase 2 - Módulo 2 del curso d
 
 Tarea | Descripción
 ------------ | -------------
-Postwork 1 | 
+Postwork 1 | Gestión de base de datos
 Postwork 2 | 
 Postwork 3 | 
 Postwork 4 | 
