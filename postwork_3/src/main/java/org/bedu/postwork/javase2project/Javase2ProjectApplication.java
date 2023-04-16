@@ -8,4 +8,5 @@ public class Javase2ProjectApplication {
     public static void main(String[] args) {
         SpringApplication.run(Javase2ProjectApplication.class, args);
     }
+    
 }
