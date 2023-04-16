@@ -24,7 +24,7 @@ Tarea | Descripción
 ------------ | -------------
 Postwork 1 | Gestión de base de datos
 Postwork 2 | 
-Postwork 3 | Pruebas dinámicas
+Postwork 3 | Programación funcional
 Postwork 4 | 
 Postwork 5 | 
 Postwork 6 | 
