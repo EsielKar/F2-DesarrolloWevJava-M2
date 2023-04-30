@@ -27,6 +27,6 @@ Postwork 2 |
 Postwork 3 | Programación funcional
 Postwork 4 | 
 Postwork 5 | 
-Postwork 6 | 
+Postwork 6 | Genéricos
 Postwork 7 | 
 Postwork 8 | 
