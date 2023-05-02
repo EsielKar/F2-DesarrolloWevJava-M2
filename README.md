@@ -23,7 +23,7 @@ Implementar todos los postwork del Equipo 4 de la Fase 2 - Módulo 2 del curso d
 Tarea | Descripción
 ------------ | -------------
 Postwork 1 | Gestión de base de datos
-Postwork 2 | 
+Postwork 2 | Multi-hilos y procesos concurrentes
 Postwork 3 | Programación funcional
 Postwork 4 | Procesos Asíncronos
 Postwork 5 | 
